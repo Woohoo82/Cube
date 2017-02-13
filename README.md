@@ -1,2 +1,1 @@
-# Cube
-Primitive 3D rotation
+# Primitive 3D rotation
